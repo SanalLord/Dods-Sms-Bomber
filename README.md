@@ -4,7 +4,7 @@ _DodsGudinne_
 [![Hits](https://hits.sh/github.com/tingirifistik/Enough-Reborn.svg?label=views&color=007ec6)](https://hits.sh/github.com/tingirifistik/Enough-Reborn/)
 
 
-Dods
+_t.me/DodsGudinne_
 
 <h2>Kurulum</h2>
 

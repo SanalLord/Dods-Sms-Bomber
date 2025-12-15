@@ -10,6 +10,7 @@ Dods
 
 ```console
 git clone https://github.com/SanalLord/Dods-Sms-Bomber/
+cd Dods-Sms-Bomber
 pip3 install -r requirements.txt
 python3 smsbomber.py
 ```

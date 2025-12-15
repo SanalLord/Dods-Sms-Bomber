@@ -27,7 +27,7 @@ $$ |  $$ |$$ |  $$ |$$ |  $$ | \____$$\
 $$$$$$$  |\$$$$$$  |\$$$$$$$ |$$$$$$$  |
 \_______/  \______/  \_______|\_______/  
 ║                                      ║
-║   https://github.com/SanalLord     ║ 
+║   https://github.com/SanalLord       ║ 
 ║ https://www.instagram.com/yigit.php  ║
 ║                                      ║
 ║      Dods Sms Bomber Tool            ║

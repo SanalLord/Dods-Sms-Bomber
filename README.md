@@ -1,5 +1,5 @@
-# CentDecente-SmsBomber
-_It's centdecente to make a man go crazy_
+# Dods-Sms-Bomber
+_DodsGudinne_
 <br><br>
 [![Hits](https://hits.sh/github.com/tingirifistik/Enough-Reborn.svg?label=views&color=007ec6)](https://hits.sh/github.com/tingirifistik/Enough-Reborn/)
 
@@ -9,8 +9,7 @@ Dods
 <h2>Kurulum</h2>
 
 ```console
-git clone https://github.com/CentDecente/smsbomber.git
-cd smsbomber
+git clone https://github.com/SanalLord/Dods-Sms-Bomber/
 pip3 install -r requirements.txt
 python3 smsbomber.py
 ```
@@ -40,4 +39,4 @@ Bot'un çalışabilmesi için 'Privileged Gateway Intents' seçeneklerinin hepsi
 4- Bu id'yi *discord-selfbot-centdecente.py*'de *chat_id* kısmına yazınız. (int olarak)<br><br>
 **Not:** Eğer bot'u Discord sunucusunda kullanacaksanız, *channels*'dan sonra gelen, taksim ile ayrılmış iki sayıdan ikincisi sohbet id'nizdir.
 <br><br>
-<a href="https://github.com/CentDecente" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/SanalLord" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a>
